@@ -1,0 +1,34 @@
+{
+  "application.js": "/packs/js/application-05bc83490fcade04d051.js",
+  "application.js.map": "/packs/js/application-05bc83490fcade04d051.js.map",
+  "color-switcher.js": "/packs/js/color-switcher-8ee5a8324865526e0c19.js",
+  "color-switcher.js.map": "/packs/js/color-switcher-8ee5a8324865526e0c19.js.map",
+  "custom.js": "/packs/js/custom-2f5d54cac166b41b48e6.js",
+  "custom.js.map": "/packs/js/custom-2f5d54cac166b41b48e6.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-05bc83490fcade04d051.js"
+      ],
+      "js.map": [
+        "/packs/js/application-05bc83490fcade04d051.js.map"
+      ]
+    },
+    "color-switcher": {
+      "js": [
+        "/packs/js/color-switcher-8ee5a8324865526e0c19.js"
+      ],
+      "js.map": [
+        "/packs/js/color-switcher-8ee5a8324865526e0c19.js.map"
+      ]
+    },
+    "custom": {
+      "js": [
+        "/packs/js/custom-2f5d54cac166b41b48e6.js"
+      ],
+      "js.map": [
+        "/packs/js/custom-2f5d54cac166b41b48e6.js.map"
+      ]
+    }
+  }
+}
